@@ -1,2 +1,2 @@
 # Destini
-Android Story App.
+Android Story App. that focusing on control flow and application state mangement.
